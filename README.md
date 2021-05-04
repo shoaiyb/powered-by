@@ -14,7 +14,7 @@ This plugin add **image**->src(w=*227*×h=*29*) to the site which then appear as
 
 > Proud of your WonderCMS powered website?        
 > Share the word to your visitors then!       
-> - shoaiyb sysa
+> -- shoaiyb sysa
 
 
 
