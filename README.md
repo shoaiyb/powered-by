@@ -4,4 +4,8 @@
 
 <br><br>
 
-This plugin adds Slovenian translations to the WonderCMS admin area.
+
+
+
+This plugin adds 
+Proud of your WonderCMS powered website?        Share the word to your visitors then!
