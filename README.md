@@ -7,15 +7,14 @@
 
 
 
-This plugin add image->src(w=227×h=29) to the site which then appear as a sticky button in the right side at the footer, Which does and tell your visitors your website is powered by WonderCMS.
+This plugin add **image**->src(w=*227*×h=*29*) to the site which then appear as a sticky button in the right side at the footer, Which does and tell your visitors your website is powered by WonderCMS.
 
 <br><br>
 
 
-<blockqoute>
-Proud of your WonderCMS powered website? Share the word to your visitors then!
-  <cite>shoaiyb sysa</cite>
-</blockqoute>
+> Proud of your WonderCMS powered website?        
+> Share the word to your visitors then!       
+> -- shoaiyb sysa
 
 
 
