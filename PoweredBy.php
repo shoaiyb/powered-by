@@ -28,3 +28,4 @@ HTML;
   }
 
 $Wcms->addListener("js", "poweredBy");
+?>
