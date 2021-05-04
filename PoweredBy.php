@@ -2,7 +2,7 @@
 /*
  * Powered By - WonderCMS Plugin
  *
- * The plugin add (...)
+ * This plugin add image->(227×29) to the site which then appear as a sticky button in the right side at the footer, Which tell your visitors your website is powered by WonderCMS.
  *
  * @package PoweredBy
  * @version 1.0
