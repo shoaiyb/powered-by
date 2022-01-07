@@ -7,7 +7,8 @@
  * @package WonderCMS
  * @subpackage PoweredBy
  * @author Shoaiyb Sysa
- * @version 1.0
+ * @version 1.0.0
+ * @license MIT
 */
 global $Wcms;
   
