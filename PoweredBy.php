@@ -15,13 +15,13 @@ global $Wcms;
 function powered_by_header() {
   global $Wcms;
   if(!headers_sent()) {
-    header('X-Powered-By: WonderCMS ' . $Wcms->version);
+    header('X-Powered-By: WonderCMS v' . VERSION);
   }
 }
   
 function powered_by_meta() {
   global $Wcms;
-  return '<meta name="generator" content="WonderCMS ' . $Wcms->version . '">';
+  return '<meta name="generator" content="WonderCMS v' . VERSION . '">';
 }
 
 function powered_by_image($args) {
