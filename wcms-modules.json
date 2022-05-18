@@ -3,11 +3,11 @@
     "plugins": {
         "plugin-name": {
             "name": "Powered By",
-            "repo": "https://github.com/shoaiyb/PoweredBy/tree/master",
-            "zip": "https://github.com/shoaiyb/PoweredBy/archive/master.zip",
+            "repo": "https://github.com/shoaiyb/powered-by/tree/master",
+            "zip": "https://github.com/shoaiyb/powered-by/archive/master.zip",
             "summary": "Proud of your WonderCMS powered website? Share the word to your visitors then!",
-            "version": "2.0.0",
-            "image": "https://raw.githubusercontent.com/shoaiyb/PoweredBy/master/preview.jpg"
+            "version": "2.0.1",
+            "image": "https://raw.githubusercontent.com/shoaiyb/powered-by/master/preview.jpg"
         }
     }
 }
