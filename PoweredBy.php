@@ -18,11 +18,13 @@ function powered_by_header() {
   }
 }
   
-function powered_by_meta() {
-  return '<meta name="generator" content="WonderCMS">';
+function powered_by_meta( $args ) {
+  global $Wcms;
+  $args[0] .= '<meta name="generator" content="WonderCMS">';
+  return $args;
 }
 
-function powered_by_image($args) {
+function powered_by_image( $args ) {
   global $Wcms;
   if( $Wcms->loggedIn ) {
     return $args;
