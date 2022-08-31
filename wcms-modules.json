@@ -1,7 +1,7 @@
 {
     "version": 1,
     "plugins": {
-        "plugin-name": {
+        "powered-by": {
             "name": "Powered By",
             "repo": "https://github.com/shoaiyb/powered-by/tree/master",
             "zip": "https://github.com/shoaiyb/powered-by/archive/master.zip",
